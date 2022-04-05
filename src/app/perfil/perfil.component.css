@@ -1,0 +1,11 @@
+.imgstyle{
+  margin-left: 15px;
+  margin-right: 25px;
+  width: 40px;
+  height: 40px;
+}
+
+.perfilstyle :hover{
+  border: 2px rgb(252, 107, 54) solid;
+  border-radius: 50px;
+}

@@ -1,0 +1,42 @@
+.navstyle{
+  height: 90px;
+  margin-bottom: 40px;
+  padding: 0;
+  border-bottom: solid 1px hsl(220, 14%, 75%);
+}
+.nav-link{
+  font-size: 14px;
+  margin-right: 1rem;
+}
+a{
+  padding: 0;
+}
+
+.sneakers{
+  margin-right: 30px;
+  font-family: 'Kumph Sans';
+  font-weight: 600;
+  font-size: 30px;
+}
+
+.navbar-expand-sm {
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+}
+
+.hoverNav :hover{
+  color: #000000;
+}
+
+.height100center {
+  height: 100%;
+  align-items: center;
+}
+.efeitoHoverNav{
+  height: 100%;
+  padding-top: 18px;
+}
+
+.efeitoHoverNav :hover{
+  border-bottom: 3px hsl(26, 100%, 55%)  solid;
+}
